@@ -3,13 +3,18 @@ Aeris API wrapper for PHP
 
 * AerFrame
 
+Install via composer.
+```bash
+composer require mariohbrino/aeris
+```
+
 ## Requirements
 
-* PHP version >= 5.5.0
+* PHP version >= 8.0.0
 
 ## Dependencies
 
-* GuzzleHttp\Guzzle ~6.0
+* GuzzleHttp\Guzzle ^7.8
 
 ## Features
 
